@@ -41,7 +41,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="text-black border-t border-black/20 py-3 flex flex-col items-center justify-center">
-        <div className="flex space-x-4 mr-4 text-xl" >
+        <div className="flex space-x-4 mr-5 text-xl" >
           <CiFacebook  />
           <CiTwitter />
           <FaInstagram />
