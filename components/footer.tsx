@@ -6,7 +6,7 @@ import { TbBrandLinkedin } from "react-icons/tb";
 
 export default function Footer() {
   return (
-    <div className="bg-blue-100 h-[250px]">
+    <div className="bg-blue-100 h-[350px] mt-20">
       <div className="px-8 py-8 text-black w-full">
         <div className="grid grid-cols-5">
           <div className="font-bold text-3xl">MindWell</div>
